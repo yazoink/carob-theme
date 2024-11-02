@@ -76,24 +76,24 @@ menu_blur_radius=0
 tooltip_blur_radius=0
 
 [GeneralColors]
-window.color=#242120
-base.color=#242120
-alt.base.color=#2f2b28
-button.color=#2f2b28
-light.color=#393430
-mid.light.color=#2f2b28
-dark.color=#242120
-mid.color=#2f2b28
-highlight.color=#373a3d
-inactive.highlight.color=#373a3d
+window.color=#252221
+base.color=#252221
+alt.base.color=#3D3834
+button.color=#3D3834
+light.color=#443F3A
+mid.light.color=#3D3834
+dark.color=#252221
+mid.color=#3D3834
+highlight.color=#383A3E
+inactive.highlight.color=#383A3E
 text.color=#b5a48d
 window.text.color=#b5a48d
 button.text.color=#b5a48d
-disabled.text.color=#706559
+disabled.text.color=#7E7360
 tooltip.text.color=#b5a48d
 highlight.text.color=#b5a48d
-link.color=#7DAEA3
-link.visited.color=#D3869B
+link.color=#728797
+link.visited.color=#998396
 progress.indicator.text.color=#b5a48d
 
 [Hacks]
