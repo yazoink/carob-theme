@@ -28,8 +28,8 @@ A theme based on the [Chocolate](https://gitlab.com/snakedye/chocolate) colorsch
 - Discord
 - Foot
 - GTK2/3/4 (limited DE support -- based on [adw-gtk3](https://github.com/lassekongo83/adw-gtk3))
-- GTK icons
-- Qt/Kvantum
+- GTK icons (based on [Suru++](https://github.com/GabePoel/KvLibadwaita))
+- Qt/Kvantum (based on [KvLibadwaita](https://github.com/GabePoel/KvLibadwaita))
 - Mako
 - Rofi
 - Yazi
