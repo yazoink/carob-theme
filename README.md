@@ -26,6 +26,7 @@ A theme based on the [Chocolate](https://gitlab.com/snakedye/chocolate) colorsch
 - Base16
 - btop
 - Discord
+- Cursors (based on [Bibata](https://github.com/ful1e5/Bibata_Cursor))
 - Foot
 - GTK2/3/4 (limited DE support -- based on [adw-gtk3](https://github.com/lassekongo83/adw-gtk3))
 - GTK icons (based on [Suru++](https://github.com/GabePoel/KvLibadwaita))
