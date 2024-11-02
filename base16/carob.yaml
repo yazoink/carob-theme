@@ -1,0 +1,22 @@
+# tweaked version of https://gitlab.com/snakedye/chocolate
+system: "base16"
+name: "Carob"
+author: "yazoink (https://yazo.ink), snakedye (https://gitlab.com/snakedye/chocolate)"
+variant: "dark"
+palette:
+  base00: "242120" # ----
+  base01: "2b2726" # ---
+  base02: "332e2b" # --
+  base03: "3b3431" # -
+  base04: "ad9b84" # +
+  base05: "b5a48d" # ++
+  base06: "bdae97" # +++
+  base07: "c8baa4" # ++++
+  base08: "c65f5f" # red
+  base09: "d08b65" # orange
+  base0A: "d9b27c" # yellow
+  base0B: "859e82" # green
+  base0C: "829e9b" # aqua/cyan
+  base0D: "728797" # blue
+  base0E: "998396" # purple
+  base0F: "ab9382" # brown

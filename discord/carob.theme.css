@@ -1,0 +1,59 @@
+/**
+* @name Carob
+* @author yazoink
+* @version 0.0.0
+* @description based on https://gitlab.com/snakedye/chocolate
+**/
+
+:root {
+    --base00: #242120; /* Black */
+    --base01: #2b2726; /* Bright Black */
+    --base02: #332e2b; /* Grey */
+    --base03: #3b3431; /* Brighter Grey */
+    --base04: #ad9b84; /* Bright Grey */
+    --base05: #b5a48d; /* White */
+    --base06: #bdae97; /* Brighter White */
+    --base07: #c8baa4; /* Bright White */
+    --base08: #c65f5f; /* Red */
+    --base09: #d08b65; /* Orange */
+    --base0A: #d9b27c; /* Yellow */
+    --base0B: #859e82; /* Green */
+    --base0C: #829e9b; /* Cyan */
+    --base0D: #728797; /* Blue */
+    --base0E: #998396; /* Purple */
+    --base0F: #ab9382; /* Magenta */
+
+    --primary-630: var(--base00); /* Autocomplete background */
+    --primary-660: var(--base00); /* Search input background */
+}
+
+.theme-light, .theme-dark {
+    --search-popout-option-fade: none; /* Disable fade for search popout */
+    --bg-overlay-2: var(--base00); /* These 2 are needed for proper threads coloring */
+    --home-background: var(--base00);
+    --bg-overlay-chat : var(--base00); /* Recolor forum channels */
+    --background-primary: var(--base00);
+    --background-secondary: var(--base01);
+    --background-secondary-alt: var(--base01);
+    --channeltextarea-background: var(--base01);
+    --background-tertiary: var(--base00);
+    --background-accent: var(--base0E);
+    --background-floating: var(--base01);
+    --background-modifier-hover: #2421204c; /* 30% of base00 */
+    --background-modifier-selected: var(--base00);
+    --text-normal: var(--base05);
+    --text-secondary: var(--base03);
+    --text-muted: var(--base04);
+    --text-link: var(--base0C);
+    --interactive-normal: var(--base05);
+    --interactive-hover: var(--base05);
+    --interactive-active: var(--base07);
+    --interactive-muted: var(--base03);
+    --channels-default: var(--base04);
+    --channel-icon: var(--base04);
+    --header-primary: var(--base06);
+    --header-secondary: var(--base04);
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-track: transparent;
+}
+
