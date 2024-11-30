@@ -33,6 +33,7 @@ A theme based on the [Chocolate](https://gitlab.com/snakedye/chocolate) colorsch
 - Qt/Kvantum (based on [KvLibadwaita](https://github.com/GabePoel/KvLibadwaita))
 - Mako
 - Rofi
+- SDDM
 - Yazi
 
 ## Example Screenshots
